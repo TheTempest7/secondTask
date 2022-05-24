@@ -1,0 +1,23 @@
+.main {
+    margin: 50px auto;
+}
+.main__table {
+}
+.table {
+    margin: 50px auto;
+    width: 500px;
+    border: 2px solid gold;
+    background-color: rgb(255, 236, 67);
+}
+.table__days{}
+.table__month{}
+.table__range{
+    td{
+        border: 2px solid gold;
+        background-color: silver;
+        padding:10px;
+        text-align: center;
+        color: rgb(0, 0, 255);
+        font-size: 30px;
+    }
+}
